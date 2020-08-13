@@ -38,7 +38,6 @@ The dataset is stored in a comma-separated-value (CSV) file and there are a tota
 # Load the data
 activity <- read.csv("activity.csv")
 ```
-
 Missing values are ignored or removed from the dataset in this step of the analysis.
 
 2. Process/transform the data (if necessary) into a format suitable for the analysis
